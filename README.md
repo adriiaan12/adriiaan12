@@ -1,5 +1,6 @@
-👋 ¡Hola! Soy Adrian Sánchez Álvarez  
-💻 Ingeniero Informático | Desarrollador de Software, Videojuegos y Sistemas Inteligentes
+<h1 align="center">👋 ¡Hola! Soy <strong>Adrian Sánchez Álvarez</strong></h1>
+<h3 align="center">💻 Ingeniero Informático | Desarrollador de Software</h3>
+
 
 ---
 
@@ -7,7 +8,7 @@
 
 🎓 Estudiante de último curso de **Ingeniería Informática en la UCA**, con experiencia en el desarrollo de videojuegos, sistemas backend, scraping avanzado y análisis de datos. He trabajado con tecnologías como **Unity**, **Java**, **C++**, **Python**, **Pentaho**, **MongoDB**, **ETLs** y **Machine Learning**.
 
-🛠️ Me encanta crear soluciones prácticas combinando código limpio, diseño modular y creatividad, especialmente en videojuegos y automatización.
+🛠️ Me encanta crear.
 
 🎯 Mi objetivo es comenzar mi carrera profesional como **Ingeniero de Software**, aportando soluciones eficientes, bien diseñadas y con impacto real.
 
@@ -97,7 +98,7 @@ Proyecto de minería y visualización de datos en la UCA:
 ## 4️⃣ 🌤️ **Modelo predictivo de clima – Machine Learning**
 - Integración de datos de AEMET  
 - Limpieza, selección de características y preprocesamiento  
-- Implementación de Random Forest  
+- Implementación de Random Forest,Logistic Regresion, Clasificación Multiclase
 - Análisis de precisión, métricas y optimización  
 - Integración Python + Pandas + Sklearn
 
@@ -114,34 +115,26 @@ Proyecto de minería y visualización de datos en la UCA:
 ## 🧱 Áreas destacadas
 - Desarrollo de videojuegos  
 - Scraping y procesamiento de información  
-- ETLs avanzadas y BI  
+- ETLs y BI  
 - APIs REST  
 - Modelos de Machine Learning  
 - Control de versiones Git  
-- Sistemas híbridos Windows/WSL  
-- Testing básico
+- Estructuras de datos
 
 ---
 
-# 🧠 Actualmente aprendiendo
-- Playwright (migración desde Selenium)  
-- Testing avanzado en C++ y Java  
-- Patrones de arquitectura en videojuegos  
-- Mejora de documentación técnica  
-- Bases de diseño 3D para Unity  
 
----
 
 # 🌐 Idiomas
 - Español – Nativo  
-- Inglés – Nivel Intermedio (B1–B2)
+- Inglés – Nivel Intermedio (B1)
 
 ---
 
 # 📫 Contacto
 Puedes encontrarme en GitHub o contactar por email:  
-📧 *tu-email@ejemplo.com*  
-🐙 https://github.com/TU_USUARIO
+📧 *adriansanal27@gmail.com*  
+
 
 ---
 
