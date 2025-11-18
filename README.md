@@ -28,22 +28,22 @@
 ## 🛠️ Tecnologías que utilizo
 
 ### 🔹 Lenguajes de programación  
-C++ · Java · Python · C# · SQL · JavaScript
+C++ · Java · Python · C# · JavaScript
 
 ### 🔹 Bases de datos  
-MongoDB · MySQL · PostgreSQL · Oracle
+MongoDB · MySQL · PostgreSQL
 
 ### 🔹 Desarrollo backend / APIs REST  
-FastAPI · Node.js · Java (servlets, scrapers)
+Django · Node.js · Java
 
 ### 🔹 Desarrollo web y móvil  
-HTML5 · CSS3 · JavaScript · PHP · Flutter *(básico)* · Android Studio *(básico)*
+HTML5 · CSS3 · JavaScript · PHP · Android Studio *(básico)*
 
 ### 🔹 Control de versiones  
 Git · GitHub
 
 ### 🔹 Herramientas y plataformas  
-Docker · Unity · Pentaho Spoon · Playwright · Selenium · Apache Tika · VS Code · WSL
+Docker · Unity · Pentaho · Playwright · VS Code · WSL
 
 ---
 
@@ -63,10 +63,7 @@ Juego 2D con múltiples mecánicas avanzadas:
 - Gravedad dinámica según el entorno  
 - Divisiones de objetos  
 - Congelación, velocidades variables y rotaciones  
-- Sistema de bosses por nivel  
-- Lore, secretos, progresión ascendente y teletransporte  
-- Animación de labios con **uLipSync**  
-- Personaje siempre visible en pantalla (estilo VTuber 2.0)
+- Sistema de bosses por nivel   
 
 **Tecnologías:** Unity · C# · uLipSync · Animaciones · Físicas personalizadas
 
