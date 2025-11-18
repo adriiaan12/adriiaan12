@@ -143,6 +143,10 @@ Proyecto de minería y visualización de datos en la UCA:
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 # 📫 Contacto
 Puedes encontrarme en GitHub o contactar por email:  
 📧 *adriansanal27@gmail.com*  
