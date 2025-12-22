@@ -21,7 +21,7 @@
 - ETL y visualización de datos con Pentaho (Spoon, OLAP y Dashboard).
 - Desarrollo backend básico (APIs REST) y automatización con Python.
 - Modelado de datos, TF-IDF, ML clásico (Random Forest).
-- Trabajo en equipo, control de versiones y metodologías ágiles.
+- Trabajo en equipo y control de versiones.
 
 ---
 
